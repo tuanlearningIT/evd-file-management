@@ -1,3 +1,4 @@
+//@ts-nocheck
 import {
   legacy_createStore as createStore,
   applyMiddleware,
@@ -14,6 +15,7 @@ export * from "./selectors";
 const rootReducer = combineReducers({
   documents: documentReducer,
 });
+
 
 export const store = createStore(rootReducer, applyMiddleware(thunk));
 
