@@ -1,0 +1,22 @@
+{
+  "document": {
+    "content": "File Management",
+    "description": "Manage documents in EVD module",
+    "create": "New Document",
+    "search": "Search by code or title...",
+    "delete": "Delete",
+    "save": "Save",
+    "edit": "Edit",
+    "cancel": "Cancel", 
+    "code": "Code",
+    "title": "Title",
+    "category": "Category",
+    "status": "Status",
+    "createdBy": "Created By",
+    "createdDate": "Created Date",
+    "action": "Action",
+    "import": "Import",
+    "deleteDocument": "Delete Document",
+    "deleteContent": "Are you sure you want to delete this document?"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "document": {
+    "content": "Quản lý tài liệu",
+    "description": "Quản lý tài liệu trong module EVD",
+    "create": "Thêm tài liệu",
+    "search": "Tìm kiếm theo mã hoặc tiêu đề...",
+    "delete": "Xóa",
+    "save": "Lưu",
+    "edit": "Chỉnh sửa",
+    "cancel": "Hủy",
+    "code": "Mã",
+    "title": "Tiêu đề",
+    "category": "Thể loại",
+    "status": "Trạng thái",
+    "createdBy": "Người tạo",
+    "createdDate": "Ngày tạo",
+    "action": "Hành động",
+    "import": "Nhập",
+    "deleteDocument": "Xóa tài liệu",
+    "deleteContent": "Bạn có chắc chắn muốn xóa tài liệu này không?"
+  }
+}
