@@ -1,4 +1,23 @@
 {
-  "documents": [],
+  "documents": [
+    {
+      "code": "1",
+      "title": "2",
+      "category": "HR",
+      "status": "ACTIVE",
+      "createdBy": "ADMIN",
+      "createdDate": "2026-07-08T02:01:15.474Z",
+      "id": 1
+    },
+    {
+      "code": "2",
+      "title": "3",
+      "category": "Finance",
+      "status": "INACTIVE",
+      "createdBy": "STAFF",
+      "createdDate": "2026-07-08T02:01:22.137Z",
+      "id": 2
+    }
+  ],
   "$schema": "./node_modules/json-server/schema.json"
 }

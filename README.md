@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # EVD File Management
 
 A React + TypeScript admin application for managing documents in the EVD (File Management) module.
@@ -49,7 +48,7 @@ A React + TypeScript admin application for managing documents in the EVD (File M
 Clone the repository.
 
 ```bash
-git clone https://github.com/<your-username>/evd-file-management.git
+git clone https://github.com/tuanlearningIT/evd-file-management.git
 
 cd evd-file-management
 ```
@@ -212,56 +211,11 @@ Features
 - View documents
 - Search documents
 - Filter documents
-
----
-
-## Folder Structure
-
-```
-src
-├── api/
-├── components/
-├── hooks/
-├── i18n/
-├── store/
-├── types/
-├── workers/
-├── App.tsx
-└── main.tsx
-```
-
----
-
-## Performance Optimizations
-
-- React.memo
-- Debounced search
-- Redux Thunk asynchronous actions
-- Web Worker for CSV import
-- Server-side pagination
-- Lazy loaded dialogs
-- Component-based architecture
-
----
-
-## Future Improvements
-
-- Authentication
-- RBAC
-- Virtualized table (TanStack Virtual / react-window)
-- Excel import/export
-- Unit testing
-- E2E testing
-- Docker
-- CI/CD
-- Dark mode
+- Create documents
+- Import CSV
 
 ---
 
 ## License
 
 This project was developed as part of a Frontend React coding assessment.
-=======
-# evd-file-management
-evd-file-management
->>>>>>> a0ba8121b6f2aec9421ad7e936b5165f77c67acf
