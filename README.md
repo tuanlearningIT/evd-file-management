@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EVD File Management
 
 A React + TypeScript admin application for managing documents in the EVD (File Management) module.
@@ -260,3 +261,7 @@ src
 ## License
 
 This project was developed as part of a Frontend React coding assessment.
+=======
+# evd-file-management
+evd-file-management
+>>>>>>> a0ba8121b6f2aec9421ad7e936b5165f77c67acf
